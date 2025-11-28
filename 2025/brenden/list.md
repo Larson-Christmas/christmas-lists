@@ -1,5 +1,5 @@
-[ ] 2 long sleeve shirts xxl
-[ ] 1 Sweatshirt xxl
+- [ ] 2 long sleeve shirts xxl
+- [ ] 1 Sweatshirt xxl
 [ ] Pajama Pants XL
 [ ] Black Dress Shoes size 11.5/12
 [ ] Gift card/certificate to restaurant (wahi hana)
